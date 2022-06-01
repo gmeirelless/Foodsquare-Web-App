@@ -1,6 +1,6 @@
 # FoodSquare
-## What Problems Does It Solve:
-With growing number of restaurants in Dhaka city, it has become very much indispensable part for the restaurants to have an website where they can not only manage their business but also advertise their products. And Covid-19 has just shown how much necessary it is to have an online presence even for a small organization. 
+## Quais problemas ele resolve:
+Com o crescente número de restaurantes nas grandes cidades, tornou-se uma parte indispensável para os restaurantes terem um site onde possam não apenas gerenciar seus negócios, mas também anunciar seus produtos. E o Covid-19 acaba de mostrar o quanto é necessário ter uma presença online mesmo para uma pequena organização.
 
 
 But it's not easy for all restaurants to build and manage their websites themselves. That's where FoodSquare comes into the picture. 
