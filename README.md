@@ -3,10 +3,9 @@
 Com o crescente número de restaurantes nas grandes cidades, tornou-se uma parte indispensável para os restaurantes terem um site onde possam não apenas gerenciar seus negócios, mas também anunciar seus produtos. E o Covid-19 acaba de mostrar o quanto é necessário ter uma presença online mesmo para uma pequena organização.
 
 
-But it's not easy for all restaurants to build and manage their websites themselves. That's where FoodSquare comes into the picture. 
+Mas não é fácil para todos os restaurantes construir e gerenciar seus próprios sites. É aí que o FoodSquare entra em cena.
 
-
-It gives restaurants a platform to manage their own restaurants and put their products on display. On the other hand, food-lovers get the opportunity to browse food items as per their taste and budget from hundreds of restaurants. 
+Ele oferece aos restaurantes uma plataforma para gerenciar seus próprios restaurantes e expor seus produtos. Por outro lado, os amantes da comida têm a oportunidade de procurar itens alimentares de acordo com seu gosto e orçamento em centenas de restaurantes.
 
 
 ## About This Repository:
