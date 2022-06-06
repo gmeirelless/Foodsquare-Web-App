@@ -1,5 +1,5 @@
 # FoodSquare
-## Quais problemas essa aplicação resolve?
+## Qual o foco desta aplicação?
 Com o crescente número de restaurantes nas grandes cidades, tornou-se uma parte indispensável para os restaurantes terem um site onde possam não apenas gerenciar seus negócios, mas também anunciar seus produtos. E o Covid-19 acaba de mostrar o quanto é necessário ter uma presença online mesmo para uma pequena organização.
 
 
