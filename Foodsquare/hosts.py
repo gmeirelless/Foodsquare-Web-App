@@ -6,4 +6,4 @@ host_patterns = patterns('',
                          host(r'delivery', 'delivery.urls', name='delivery'),
                          host(r'admin', 'webAdmin.urls', name='webAdmin'),
                          host(r'www', settings.ROOT_URLCONF, name='www'),
-                         )
+                         ) 
