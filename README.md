@@ -52,7 +52,6 @@ Este repositório contém o aplicativo web para este sistema implementado no Dja
         - um aplicativo de login do Facebook precisa ser configurado e suas credenciais devem ser adicionadas ao banco de dados corretamente para acessar as páginas de login.
            Para facilitar, um aplicativo é criado e suas credenciais são fornecidas em um arquivo json despejado que pode ser carregado no banco de dados usando:
         ```shell
-        python3 manage.py loaddata data.json
-        ``      
+        python3 manage.py loaddata data.json    
          
 
