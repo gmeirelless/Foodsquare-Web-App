@@ -1,4 +1,4 @@
-INSERT INTO public.accounts_delivery (id, address, address_desc, charge, time, rating_user, rating_deliveryman, deliveryman_id, location) VALUES (1, '', ', , , ', 50, '2019-09-08 06:57:07.080000', 2, null, 5, '0,0');
+INSERT INTO public.accounts_delivery (id, address, address_desc, charge, time, rating_user, rating_deliveryman, deliveryman_id, location) VALUES (1,  '', ', , , ', 50, '2019-09-08 06:57:07.080000', 2, null, 5, '0,0');
 INSERT INTO public.accounts_delivery (id, address, address_desc, charge, time, rating_user, rating_deliveryman, deliveryman_id, location) VALUES (2, '', ', , , ', 50, '2019-09-01 06:51:42.005000', null, null, 4, '0,0');
 INSERT INTO public.accounts_delivery (id, address, address_desc, charge, time, rating_user, rating_deliveryman, deliveryman_id, location) VALUES (3, 'Azimpur', ', 12, 13, ', 50, '2019-09-01 08:12:57.531000', null, null, 5, '0,0');
 INSERT INTO public.accounts_delivery (id, address, address_desc, charge, time, rating_user, rating_deliveryman, deliveryman_id, location) VALUES (4, 'Dhanmondi', '1, 65, 10, 1', 50, '2019-09-01 08:17:32.733000', null, null, 5, '0,0');
