@@ -27,21 +27,21 @@
   "model": "browse.ingredient",
   "pk": 1,
   "fields": {
-    "name": "bun"
+    "name": "pão"
   }
 },
 {
   "model": "browse.ingredient",
   "pk": 2,
   "fields": {
-    "name": "cheese"
+    "name": "queijo"
   }
 },
 {
   "model": "browse.ingredient",
   "pk": 3,
   "fields": {
-    "name": "mushroom"
+    "name": "cogumelos"
   }
 },
 {
