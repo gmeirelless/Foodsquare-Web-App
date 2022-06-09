@@ -6,6 +6,7 @@ from webAdmin import views
 
 app_name = 'webAdmin'
 
+
 urlpatterns = [
 
 	# path('', views.IndexView.as_view(), name='index'),
